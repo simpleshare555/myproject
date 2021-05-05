@@ -8,5 +8,9 @@ this is my home PC with ssh key
 
 try to test pull request
 
+<<<<<<< HEAD
 
 try to make conflict, this time form my computer
+
+
+pull requestion when conflict hppen
